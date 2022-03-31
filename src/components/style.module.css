@@ -1,0 +1,25 @@
+.weatherDetailsRight {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.image {
+  height: 150px;
+}
+.weatherIcon {
+  height: 100%;
+}
+.wetherStatus {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cardHeader {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+
+.mainWeather {
+  display: flex;
+}

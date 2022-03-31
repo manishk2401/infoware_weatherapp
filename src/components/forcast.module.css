@@ -1,0 +1,19 @@
+.headLine {
+}
+
+.forcastBtn {
+  padding: 20px 0px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.forecastTemp {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nightForecast,
+.dayForecast {
+  text-align: center;
+  box-shadow: 2px 1px 5px grey;
+}
